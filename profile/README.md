@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/World-Credit-Inc/World-Credit/main/assets/images/WorldCreditLogoHorizontal.jpeg](https://avatars.githubusercontent.com/u/240529535?s=200&v=4)" alt="World Credit" width="400"/>
+  <img src="https://avatars.githubusercontent.com/u/240529535?s=200&v=4" width="400"/>
 </p>
 
 <h3 align="center">The Trust Score for the Internet</h3>
