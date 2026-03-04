@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1024" height="1024" alt="WorldCreditAppLogo" src="https://github.com/user-attachments/assets/5287296e-aa5a-4f8f-8d52-bac50d1a2ef8" />
+  <img width="600" height="600" alt="WorldCreditAppLogo" src="https://github.com/user-attachments/assets/5287296e-aa5a-4f8f-8d52-bac50d1a2ef8" />
 </p>
 
 <h3 align="center">The Trust Score for the Internet</h3>
