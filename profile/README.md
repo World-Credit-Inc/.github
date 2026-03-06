@@ -1,11 +1,4 @@
-<p align="center">
-  <picture>
-    <!-- Dark mode -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/3144c924-6d1d-4cde-9226-4d1299e5d9d0">
-    <!-- Light mode -->
-    <img width="522" height="522" src="https://github.com/user-attachments/assets/d4789849-e1d1-4a0f-88f5-60eb8b327fb6">
-  </picture>
-</p>
+<img width="400" height="400" alt="WorldCreditAppLogo" src="https://github.com/user-attachments/assets/5287296e-aa5a-4f8f-8d52-bac50d1a2ef8" />
 
 <h3 align="center">The Trust Score for the Internet</h3>
 
