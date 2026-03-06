@@ -1,4 +1,6 @@
-<img width="400" height="400" alt="WorldCreditAppLogo" src="https://github.com/user-attachments/assets/5287296e-aa5a-4f8f-8d52-bac50d1a2ef8" />
+<p align="center">
+  <img width="400" height="400" alt="WorldCreditAppLogo" src="https://github.com/user-attachments/assets/5287296e-aa5a-4f8f-8d52-bac50d1a2ef8" />
+</p>
 
 <h3 align="center">The Trust Score for the Internet</h3>
 
